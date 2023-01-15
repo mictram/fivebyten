@@ -13,7 +13,7 @@ body_size = [
 
 // rough model
 module body() {
-  cube(size=body_size, center=false);
+  color("DimGrey") cube(size=body_size, center=false);
 }
 
 // render
