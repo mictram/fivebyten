@@ -2,8 +2,8 @@
 // includes matresses and accesories
 
 // parameters
-width_outer = 6;
-length_outer = 26.5;
+width_outer = 26.5;
+length_outer = 6;
 height_outer = 12.25;
 body_size = [
   width_outer,
